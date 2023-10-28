@@ -1,3 +1,3 @@
 # CSE454
-Giang Vu
+Giang
 This repository is for testing out GitHub Desktop.
